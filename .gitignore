@@ -1,0 +1,3 @@
+.idea
+*.iml
+resources/client_secret.json
